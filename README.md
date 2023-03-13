@@ -14,10 +14,10 @@ BladeHuntRPG is an MMO RPG gamemode that takes place in a vast and immersive wor
 
 ## Server Information
 
-- Server name: Bladehunt
 - IP address: play.bladehunt.net
 - Version: 1.8.9 - 1.19.3
-- Discord: [https://discord.gg/bladehunt](https://discord.gg/bladehunt)
+- [Store](http://store.bladehunt.net)
+- [Discord](https://discord.gg/YDt9twcDWE)
 
 ## Rules
 
@@ -27,3 +27,6 @@ To ensure that all players have a fun and enjoyable experience, we have establis
 2. Be respectful to other players and do not use hate speech or offensive language.
 3. Do not spam or advertise other servers.
 4. Follow the instructions of the server staff.
+
+## Store
+If you would be as kind as to support us, you can do so by buying ranks, cosmetics, and more at our [store](http://store.bladehunt.net)!
